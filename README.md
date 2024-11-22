@@ -1,13 +1,14 @@
 # Olá, eu sou Fellipe Valladares 👋 #
 
-### Languages ###
+### Linguagens ###
 
-![C++](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.python.org%2Fcommunity%2Flogos%2F&psig=AOvVaw0mM8d7qh48rATaa8ae_3Aa&ust=1732338273699000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLDrmo2V74kDFQAAAAAdAAAAABAE)
-![Python](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.python.org%2Fcommunity%2Flogos%2F&psig=AOvVaw0mM8d7qh48rATaa8ae_3Aa&ust=1732338273699000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLDrmo2V74kDFQAAAAAdAAAAABAE)
 ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Css](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.python.org%2Fcommunity%2Flogos%2F&psig=AOvVaw0mM8d7qh48rATaa8ae_3Aa&ust=1732338273699000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLDrmo2V74kDFQAAAAAdAAAAABAE)
-![JavaScript](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.python.org%2Fcommunity%2Flogos%2F&psig=AOvVaw0mM8d7qh48rATaa8ae_3Aa&ust=1732338273699000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLDrmo2V74kDFQAAAAAdAAAAABAE)
-![React](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.python.org%2Fcommunity%2Flogos%2F&psig=AOvVaw0mM8d7qh48rATaa8ae_3Aa&ust=1732338273699000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLDrmo2V74kDFQAAAAAdAAAAABAE)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ### Soft Skills ###
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
@@ -27,3 +28,4 @@
 
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:fellipevalladares@gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@f3n1x_540/)
+[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fellipevalladares/)
